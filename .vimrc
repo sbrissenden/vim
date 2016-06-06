@@ -50,9 +50,9 @@ set spell spelllang=en_us
 set colorcolumn=80
 
 " Aesthetics
-
+set background=dark
+let g:solarized_termcolors=256
 colorscheme solarized
-set background=light
 
 " Mappings and shortcuts
 
