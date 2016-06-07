@@ -105,3 +105,7 @@ vnoremap <F1> <ESC>
 " nnoremap <C-j> <C-w>j
 " nnoremap <C-k> <C-w>k
 " nnoremap <C-l> <C-w>l
+"
+" " " ctrlp.vim - used for fuzzy file path opening
+set runtimepath^=~/.vim/bundle/ctrlp.vim
+"
